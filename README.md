@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KazuCasmier
+- 👀 I’m interested in game development!
+- 🌱 I’m currently learning Python and some C++
+- 💞️ I’m looking to collaborate on game projects and other programming things
+- 📫 How to reach me DM me on twitter @kazucasmier
